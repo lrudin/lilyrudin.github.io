@@ -1,7 +1,7 @@
 title: Lily Rudin
 description: A Masters Student in Computational Analysis and Public Policy at the University of Chicago with expected graduation date in 2027. 5 Years prior work experience as a data scientist in educational technology. 
-baseurl: "/lrudin" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/lilyrudin.github.io"
+url: "https://lrudin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
