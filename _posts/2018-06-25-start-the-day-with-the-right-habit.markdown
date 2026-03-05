@@ -2,7 +2,7 @@
 layout: post
 title:  Project Civic-Pulse
 date:   2026-03-04 15:01:35 +0300
-image:  city_chicago.jpeg
+image:  city_chicago.png
 tags:   Style
 ---
 
