@@ -8,16 +8,17 @@ description: Masters Student in Computational Analysis and Public Policy at the 
 author:
   name: Lily Rudin
   image: IMG_3095.jpeg
-  say-hello: Masters Student in Computational Analysis and Public Policy at the University of Chicago with five years prior work experience as a data scientist in educational technology. 
-  bio: Passionate about using rigorous quantiative analysis to analyze policy outcomes. Contact me @ lily.rudin@gmail.com
+ # say-hello: Masters Student in Computational Analysis and Public Policy at the University of Chicago with five years prior work experience as a data scientist in educational technology.
+  say-hello: Data Scientist and Policy Analyst passionate about using rigorous quantiative analysis to analyze policy outcomes
+  bio: Masters Student in Computational Analysis and Public Policy at the University of Chicago with five years prior work experience as a data scientist in educational technology. Policy areas of interest include Data Privacy and AI Governance. Contact me at lily.rudin@gmail.com
 
 
 #-------------------------------
 # Contact links
 linkedin: https://www.linkedin.com/in/lily-rudin-632358162/ # Add your Twitter handle
 github: https://github.com/lrudin # Add your Facebook handle
-email: lrudin@uchicago.edu # Add your Dribbble handle
-phone: 201-546-4922 # Add your Instagram handle
+email: lily.rudin@gmail.com # Add your Dribbble handle
+#phone: 201-546-4922 # Add your Instagram handle
 
 
 
