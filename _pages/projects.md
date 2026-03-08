@@ -1,93 +1,29 @@
 ---
 layout: page
-title: Projects
-permalink: /styleguide/
-image: 08.jpg
+title: Project Civic Pulse
+permalink: /project-civic-pulse/
+image: city_chicago.png
 ---
 
-A paragraph looks like this — dolor amet cray stumptown fingerstache neutra food truck seitan poke cardigan waistcoat VHS snackwave celiac hella. Godard seitan shoreditch flexitarian next level trust fund man braid vegan listicle keytar bitters. Disrupt cray fashion axe unicorn lomo shaman poke glossier keffiyeh snackwave austin tattooed seitan hexagon lo-fi. Lumbersexual irony vaporware, butcher shaman church-key iceland.
+Spotlighting an analytics project completed while pursing a Masters degree in Computational Analytics and Public Policy. This project is titled Project Civic pulse as it aimed to analyze a connection between civic sentiment, annual budget and demographics surrounding the areas with the largest volume of 311 complaints. For this project data was acquired from three public datasets: City of Chicago Budget, Chicago 311 calls and Chicago Census. 
 
 ***
 
-### Headings by default:
+### Methodology:
 
-# This is the default title
-## This is the default title
-### This is the default title
-#### This is the default title
-##### This is the default title
-###### This is the default title
+Data was sourced via API calls and CSV bulk imports from three public datasets: the Chicago City Budget, 311 Calls for the City of Chicago, and Chicago Annual Census Data.
 
-{% highlight markdown %}
-## Heading first level
-### Heading second level
-#### Heading third level
-{% endhighlight %}
+City Budget data was cleaned and aggregated by department, then joined to 311 call volume using City Department as the shared key — with 311 calls aggregated annually and by department to support this join. Chicago Annual Census data was linked to 311 calls using zip code, enabling analysis of call volume and complaint types relative to neighborhood demographics.
 
-***
+### Dashboard:
 
-### Lists
 
-#### Ordered list example:
 
-1. Poutine drinking vinegar bitters.
-2. Coloring book distillery fanny pack.
-3. Venmo biodiesel gentrify enamel pin meditation.
-4. Jean shorts shaman listicle pickled portland.
-5. Salvia mumblecore brunch iPhone migas.
-
-***
-
-#### Unordered list example:
-
-* Bitters semiotics vice thundercats synth.
-* Literally cred narwhal bitters wayfarers.
-* Kale chips chartreuse paleo tbh street art marfa.
-* Mlkshk polaroid sriracha brooklyn.
-* Pug you probably haven't heard of them air plant man bun.
-
-{% highlight markdown %}
-1. Order list item 1
-2. Order list item 1
-
-* Unordered list item 1
-* Unordered list item 2
-{% endhighlight %}
-
-***
-
-### Quotes
-
-> Coming together is a beginning; keeping together is progress; working together is success. — Edward Everett Hale
-
-***
-
-### Syntax Highlighter
-
-{% highlight js %}
-  $('.top').click(function () {
-    $('html, body').stop().animate({ scrollTop: 0 }, 'slow', 'swing');
-  });
-  $(window).scroll(function () {
-    if ($(this).scrollTop() > $(window).height()) {
-      $('.top').addClass("top-active");
-    } else {
-      $('.top').removeClass("top-active");
-    };
-  });
-{% endhighlight %}
-
-***
-
-### Videos
+### Video Walkthrough
 
 <iframe src="https://www.youtube.com/embed/iWowJBRMtpc" frameborder="0" allowfullscreen></iframe>
 
 ***
 
-### Images
+### Findings: 
 
-![]({{site.baseurl}}/images/09.jpg)
-*Backyard*
-
-***

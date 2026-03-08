@@ -56,8 +56,10 @@ Bachelor of Science in Cognitive Brain Science, Minor in Computer Science *(May 
 
 ## Skills
 
-**Languages:** C++, Python, SQL (BigQuery, PostgreSQL), JavaScript
+**Languages:** C++, Python, SQL (BigQuery, PostgreSQL), HTML
 
-**Libraries & Frameworks:** Pandas, NumPy, dbt
+**Libraries & Frameworks:** Pandas, NumPy, dbt, altair
 
 **Software & Tools:** Periscope, Google Analytics, Excel
+
+**Strengths:** A/B Testing, Dashboarding, Product Analytics
