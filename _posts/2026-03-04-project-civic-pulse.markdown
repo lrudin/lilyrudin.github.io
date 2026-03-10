@@ -22,7 +22,7 @@ City Budget data was cleaned and aggregated by department, then joined to 311 ca
 
 ### Video Walkthrough
 
-<iframe src="https://www.youtube.com/embed/iWowJBRMtpc" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/watch?v=lx7YycQWmUw" frameborder="0" allowfullscreen></iframe>
 
 ***
 
