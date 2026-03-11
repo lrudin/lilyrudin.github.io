@@ -38,11 +38,11 @@ South and West Side neighborhoods with lower incomes show rates 3–4 times the 
 
 If lower-income neighborhoods also have longer closure times, the inequality compounds: more complaints filed AND slower service received. This analysis requires crossing resolution data with ZIP-level data — currently, time-to-close percentiles are available by department only, not by neighborhood.
 
-<img src="{{ site.baseurl }}/images/budget_yoy.png" alt="Dashboard" width="800">
+<img src="{{ site.baseurl }}/images/bugdet_yoy.png" alt="Dashboard" width="800">
 
 Budget data for the city of Chicago covers a 10-year window from 2016–2026, centered around the COVID global pandemic. From 2019–2022 the Chicago Department of Public Health budget quadrupled to manage the crisis and roll out testing city-wide. The Office of Budget and Management grew exponentially from 2020–2022 as it became a pass-through vehicle for federal COVID relief through the CARES Act. Unrelated to COVID, the budget for the Department of Water Management jumped 85% in a single year (2025–2026) driven by federal Disaster Recovery grants to address flood mitigation following severe storms in 2023 and 2024.
 
-<img src="{{ site.baseurl }}/images/budget_311_yoy.png" alt="Dashboard" width="800">
+<img src="{{ site.baseurl }}/images/buget_311_yoy.png" alt="Dashboard" width="800">
 
 This chart examines the 12 departments common between the City of Chicago budget and 311 call data, comparing the number of 311 calls to the budget of the following year. We would expect budget to move in the same direction as 311 call volume, just with a flatter slope. For many departments, both variables move in the same direction. However, there are examples like the Department of Transportation where the department quadruples its budget while call volumes decreased steadily by almost 70%. Contrary to expectations, some departments show significant budget spikes pointing to drastic policy changes across administrations and various factors including the COVID-19 pandemic.
 
