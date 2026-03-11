@@ -14,11 +14,11 @@ Spotlighting an analytics project completed while pursing a Masters degree in Co
 
 Data was sourced via API calls and CSV bulk imports from three public datasets: the Chicago City Budget, 311 Calls for the City of Chicago, and Chicago Annual Census Data.
 
-City Budget data was cleaned and aggregated by department, then joined to 311 call volume using City Department as the shared key — with 311 calls aggregated annually and by department to support this join. Chicago Annual Census data was linked to 311 calls using zip code, enabling analysis of call volume and complaint types relative to neighborhood demographics.
+Chicago Budget data was cleaned and aggregated by department, then joined to 311 call volume using City Department as the shared key — with 311 calls aggregated annually and by department to support this join. Chicago Annual Census data was linked to 311 calls using zip code, enabling analysis of call volume and complaint types relative to neighborhood demographics.
 
 ### Dashboard and Findings:
 
-<a href="https://your-url.com" target="_blank">Dashboard Link</a>
+<a href="https://google.com" target="_blank">Dashboard Link</a>
 
 <img src="{{ site.baseurl }}/images/311_service_requests.png" alt="Dashboard" width="800">
 
