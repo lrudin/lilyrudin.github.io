@@ -49,4 +49,4 @@ This chart examines the 12 departments common between the City of Chicago budget
 
 ### Video Walkthrough
 
-<iframe src="https://www.youtube.com/watch?v=lx7YycQWmUw" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/lx7YycQWmUw" frameborder="0" allowfullscreen></iframe>
